@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+#I love this game  
 
 
 wget  https://github.com/rancher/rke/releases/download/vl.4.2/rke_linux-amd64
