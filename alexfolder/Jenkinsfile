@@ -1,0 +1,10 @@
+pipeline {
+    agent any
+    stages {this is a new file that i am editing 
+        stage('Hello from jenkins.') {
+            steps {
+                echo 'whoami'
+            }
+        }
+    }
+}
